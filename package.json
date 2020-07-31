@@ -1,0 +1,26 @@
+{
+  "name": "airbnb-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babakjahangiri/AirBNB-Mongo.git"
+  },
+  "author": "babak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babakjahangiri/AirBNB-Mongo/issues"
+  },
+  "homepage": "https://github.com/babakjahangiri/AirBNB-Mongo#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.0",
+    "nodemon": "^2.0.4"
+  }
+}
